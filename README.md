@@ -1,6 +1,6 @@
-# SCOTT PRO ⚡
+# SSH NET4G PRO ⚡
 
-# @SCOTTSSH
+# @SSH 
 
 *PROJETO EM BETA🍷🗿
 ```
